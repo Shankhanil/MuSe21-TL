@@ -1,0 +1,9 @@
+python main.py --task sent --emo_dim arousal --feature_set fau_intensity --normalize --d_rnn 64 --rnn_n_layers 2 --lr 0.0001 --epochs 100 --batch_size 1024 --n_seeds 4 --win_len 200 --hop_len 100 --use_gpu --cache --save --save_path preds   --source_task sent --model_path [au]_[arousal]_[64_4_False]_[0.0001_1024]/best_model.pth --tldr_log_file exp_64_2_1024_au.txt
+
+python main.py --task sent --emo_dim arousal --feature_set fau_intensity --normalize --d_rnn 64 --rnn_n_layers 2 --lr 0.0001 --epochs 100 --batch_size 1024 --n_seeds 4 --win_len 200 --hop_len 100 --use_gpu --cache --save --save_path preds   --source_task sent --model_path [au]_[arousal]_[64_4_False]_[0.0001_1024]/best_model.pth --tldr_log_file exp_64_2_1024_au.txt
+
+python main.py --task sent --emo_dim arousal --feature_set fau_intensity --normalize --d_rnn 64 --rnn_n_layers 2 --lr 0.0001 --epochs 100 --batch_size 1024 --n_seeds 4 --win_len 200 --hop_len 100 --use_gpu --cache --save --save_path preds   --source_task sent --model_path [au]_[arousal]_[64_4_False]_[0.0001_1024]/best_model.pth --tldr_log_file exp_64_2_1024_au.txt
+
+python main.py --task sent --emo_dim arousal --feature_set fau_intensity --normalize --d_rnn 64 --rnn_n_layers 2 --lr 0.0001 --epochs 100 --batch_size 1024 --n_seeds 4 --win_len 200 --hop_len 100 --use_gpu --cache --save --save_path preds   --source_task sent --model_path [au]_[arousal]_[64_4_False]_[0.0001_1024]/best_model.pth --tldr_log_file exp_64_2_1024_au.txt
+
+python main.py --task sent --emo_dim arousal --feature_set fau_intensity --normalize --d_rnn 64 --rnn_n_layers 2 --lr 0.0001 --epochs 100 --batch_size 1024 --n_seeds 4 --win_len 200 --hop_len 100 --use_gpu --cache --save --save_path preds   --source_task sent --model_path [au]_[arousal]_[64_4_False]_[0.0001_1024]/best_model.pth --tldr_log_file exp_64_2_1024_au.txt
